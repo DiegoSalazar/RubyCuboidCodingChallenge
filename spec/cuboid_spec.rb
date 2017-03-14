@@ -9,7 +9,7 @@ describe Cuboid do
   let(:position3) { Vertex.new 2, 2, 2 }
 
   describe 'move_to!' do
-    it 'changes the origin in the simple happy case' do
+    it 'changes the position in the simple happy case' do
       expect(subject.move_to!(position2)).to be true
     end
 
