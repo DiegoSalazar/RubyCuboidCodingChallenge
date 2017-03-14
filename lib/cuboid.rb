@@ -20,7 +20,7 @@ class Cuboid
     true
   end
 
-  # Returns the siz corner vertices of the cuboid
+  # Returns the six corner vertices of the cuboid
   def vertices
     [
       pos,
