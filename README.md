@@ -16,7 +16,7 @@ Please follow these directions precisely because they affect our ability to eval
 
 1. Download this repo
 2. Do your coding challenge and zip up your local repo
-3. Email the link to the zip file to steven@touchofmodern.com and the recruiter you're working with to let us know you're ready.
+3. Email the link to the zip file to [redacted].
 
 ## What we are looking for
 We are looking for several things with this challenge.  First, of course, we're looking for your answer to be technically correct. Beyond that, we're also looking for:
@@ -36,8 +36,3 @@ When we get your response, here's exactly what we're going to do:
 4. Maybe write a few more tests of our own to see if we can break stuff.
 
 That's it.  There aren't any hidden gotchas or trick questions.  That's really what we're going to do.
-
-If you have any questions, please don't hesitate to contact me at steven@touchofmodern.com
-
---Steven
-
