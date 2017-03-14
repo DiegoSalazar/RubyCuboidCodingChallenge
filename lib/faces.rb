@@ -1,6 +1,7 @@
 # Grants the including class the ability to detect intersections
 # of cuboid faces. The class must respond to `pos` and `dims` which
-# are methods that return Vertex instances.
+# are methods that return Vertex instances that represent position
+# and dimensions, respectively.
 module Faces
   def left_face_is_right_of_other_right_face(cuboid)
     left_face > cuboid.right_face
