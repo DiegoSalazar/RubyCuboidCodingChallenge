@@ -19,6 +19,10 @@ describe Cuboid do
       expect(subject.pos.y).to eq position2.y
       expect(subject.pos.z).to eq position2.z
     end
+
+    it 'does not update the position if the vertex is the same as position' do
+      expect(subject.move_to!(position)).to be false
+    end
   end
 
   describe 'vertices' do
